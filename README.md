@@ -1,2 +1,2 @@
 # A-simple-web-page
-html +css test
+A simple WebPage for testing HTML and CSS.
